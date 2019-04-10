@@ -1,4 +1,6 @@
-cordova plugin add cordova-plugin-chrome-apps-sockets-udp
-npm install
+#### Run the commands below:
 
-ionic cordova build android
+- cordova plugin add cordova-plugin-chrome-apps-sockets-udp
+- npm install
+
+- ionic cordova build <platform>
