@@ -1,0 +1,7 @@
+{
+  "name": "udp-example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
